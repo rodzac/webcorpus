@@ -1,0 +1,5 @@
+Exame aponta edema na coxa e <person>Arouca</person> fica mais duas semanas afastado
+O problema muscular de <person>Arouca</person> era mais grave do que o imaginado. O <team>Santos</team> realizou um exame de ressonância magnética na coxa esquerda do volante, e diagnosticou uma inflamação (edema residual) no local. Desta forma, o jogador fica mais duas semanas afastado.
+<person>Arouca</person> sofre com dores na coxa esquerda desde o início do ano, e já ficou de fora das partidas contra o <team>Linense</team> e <team>Mirassol</team>.
+Como o tratamento será longo, o volante não irá atuar no clássico contra o <team>São Paulo</team>, dia 30 de janeiro, na <stadium>Vila Belmiro</stadium>. <person>Adilson Batista</person> tem utilizado <person>Rodrigo Possebon</person> como substituto.
+<person>Arouca</person> vai se juntar a outro volante no departamento médico. Trata-se de <person>Charles</person>, que se recupera de uma cirurgia no joelho esquerdo, e só deve fazer a estreia no <team>Santos</team> no início de março.

@@ -1,0 +1,2 @@
+<person>Jonathan</person> retorna contra o <team>São Bernardo</team>, mas admite foco na <championship>Libertadores</championship>
+<person>Jonathan</person> está recuperado de uma lesão na coxa esquerda que o afastou dos últimos seis jogos do <team>Santos</team>. O retorno está programado para o duelo contra o <team>São Bernardo</team>, sábado, às 18h10, na <stadium>Vila Belmiro</stadium>, mas a cabeça já está voltada para o jogo seguinte, diante do <team>Cerro Porteño</team>, quarta-feira, também na <stadium>Vila</stadium>.

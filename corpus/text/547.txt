@@ -1,0 +1,5 @@
+<team>Santos</team> agenda jogo treino contra <team>seleção de Angola</team>, quinta-feira, no CT
+<person>Adilson Batista</person> vai ter a oportunidade de testar novos jogadores no <team>Santos</team>. O clube agendou um jogo-treino contra a <team>seleção de Angola</team> na quinta-feira, às 16h, no <place>CT Rei Pelé</place>.
+O duelo acontece no dia seguinte ao jogo contra o <team>São Caetano</team>, pela quarta rodada do <championship>Campeonato Paulista</championship>. Por conta disso, <person>Adilson</person> deve utilizar apenas jogadores reservas na partida amistosa.
+O treinador deve testar jogadores ainda não utilizados na temporada. A presença mais aguardada é a do atacante <person>Diogo</person>. Além dele, o goleiro <person>Aranha</person>, o zagueiro <person>Bruno Rodrigo</person>, o meia <person>Victor Hugo</person> também devem ser titulares.
+Após o jogo treino, o <team>Santos</team> vai apresentar <person>Diogo</person> à imprensa. O atacante foi cedido por empréstimo até o fim do ano pelo <team>Olympiacos-GRE</team>.

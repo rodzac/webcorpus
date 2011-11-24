@@ -1,0 +1,5 @@
+<team>Grêmio Prudente</team> pode efetivar <person>Fábio Giuntini</person> como técnico da equipe
+O <team>Grêmio Prudente</team> perdeu a terceira seguida neste domingo, em confronto contra o <team>Santos</team>, novamente no estádio <stadium>Prudentão</stadium>. Sem treinador, já que <person>Rogério Micale</person> foi demitido na última sexta-feira, o clube pensa em manter no cargo o interino <person>Fábio Giuntini</person>.
+“Reunião marcada para esta segunda-feira irá definir se <person>Fábio Giuntini</person> será efetivado como técnico da equipe ou se outro nome será contratado”, informou o <organization>Twitter</organization> oficial do clube, na manhã desta segunda-feira.
+<person>Fábio Giuntini</person> treinou o <team>Grêmio Prudente</team> na reta final de 2010, quando o clube foi rebaixado para a <championship>Série B do Campeonato Brasileiro</championship>.
+Enquanto a situação do treinador não é definida, a equipe do <team>Grêmio Prudente</team> se reapresenta nesta segunda, às 17h (horário de <place>Brasília</place>), no <place>CT Flavio Araújo</place>.

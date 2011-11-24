@@ -1,0 +1,621 @@
+-------------------------------------------
+-->words 16787 size 100848 entities 1887
+-------------------------------------------
+
+--> organization
+1	funcionários do São Paulo
+1	Estopim da Fiel
+1	Datafolha
+1	Netshoes
+1	Lance
+1	Camisa 12
+1	Polícia Militar de São Paulo
+1	Hospital São Luiz
+1	TV Globo
+1	Premiere Futebol Clube
+1	CSU CardSystem
+1	Federação Paulista
+1	Rádio Central
+1	Gaviões da Fiel
+1	WWF
+1	Coringão Chopp
+1	Confederação Brasileira de Futebol
+1	assessoria de imprensa do Palmeiras
+1	diretoria da Portuguesa
+1	departamento médico do São Paulo
+1	cúpula palmeirense
+1	direção do Grêmio Prudente
+1	Gazeta Bragantina
+1	Boletim Informativo Diário da CBF
+1	E&amp;L Consultoria e Negócios Ltda
+1	WWF-Brasil
+1	Bragança Jornal Diário
+1	Lance!
+1	diretoria lusitana
+1	assessoria de imprensa do clube alvinegro
+1	Comissão de Arbitragem da Federação Paulista de Futebol
+1	Hospital do Coração
+1	diretoria alviverde
+1	E&amp;L Marketing Esportivo
+1	Conselho Deliberativo
+2	Multi
+2	Polícia Militar
+2	UOL Esporte
+2	Jornal Bragança Diário
+2	PM
+3	G-8
+3	Fifa
+3	Yázigi
+4	Federação Paulista de Futebol
+5	Boletim Informativo Diário
+6	Twitter
+8	BID
+10	FPF
+11	CBF
+-->sum 98 items 49
+-------------------------------------------
+
+--> person
+1	Gilvan
+1	Athirson
+1	Danielzinho
+1	Javier Gomensoro
+1	Thiago Carpini
+1	Fabinho Capixaba
+1	Muricy Ramalho
+1	presidente do Yázigi
+1	Fabio
+1	equipe de Edinho Nazareth
+1	Victor Hugo
+1	Osvaldo Brandão
+1	Heberty
+1	Paulinho
+1	Wagner Ribeiro
+1	Jandson
+1	Charles
+1	Lugano
+1	Berillo Júnior
+1	Marcelinho Paraíba
+1	Marcos Denner
+1	Walter Minhoca
+1	Kempes
+1	Casemiro
+1	Giuntini
+1	Bruno Cesar
+1	Sebastián Coates
+1	Leanderson
+1	Walter Sanches
+1	Liédson
+1	Julio Santos
+1	Júlio César
+1	Paulo Henrique Ganso
+1	Mauricio
+1	Ruy Scarpino
+1	Juan Figger
+1	Chico
+1	goleiro santista
+1	Augusto
+1	Fonseca
+1	Ricardo Conceição
+1	Arthur
+1	Felipe
+1	Fabinho
+1	Keirrison
+1	Aislan
+1	Dodô
+1	Nikão
+1	Frizzo
+1	Rodriguinho
+1	Adriano Michael Jackson
+1	Vinicius
+1	Eliomar Bombinha
+1	Carlos Augusto de Barros e Silva
+1	Luciano Castán
+1	treinador do São Paulo
+1	Santiago
+1	Rene Abdalla
+1	Rafael Tesser
+1	Ponte Preta
+1	Luciano Mandi
+1	Flávio Paulino
+1	Raphael
+1	Mazola
+1	Marcos Aurélio
+1	Thiago Marin
+1	Moacir
+1	Domingos
+1	Daniel Lovinho
+1	Fred
+1	Bruno Turco
+1	Flávio Henrique
+1	Ferron
+1	Luis Alvaro de Oliveira Ribeiro
+1	presidente do clube pernambucano
+1	Chilavert
+1	Valdo
+1	Erandir
+1	Carlos W. Martins
+1	André Sanches
+1	Carlos Alberto Silveira
+1	Fábio Miguel
+1	Professor Pardal
+1	M. Leite
+1	Micale
+1	Márcio Araújo
+1	Marcelinho
+1	Leozinho
+1	Túlio
+1	C. Paraíba
+1	Max Santos
+1	Matheus
+1	Jaguariúna
+1	Rodrigo Pastana
+1	Wellintgon
+1	Luis
+1	Maurício
+1	Rubens Furla
+1	Anselmo Sbragia
+1	Aranha
+1	Antônio Lopes
+1	Diniz
+1	treinador da Portuguesa
+1	Sergio do Prado
+1	Tinga
+1	Rafael Santos
+1	Willian José
+1	Coronel Marinho
+1	Marcelo Prieto Alfieri
+1	Saldanha
+1	Danilo Portugal
+1	Vitor
+1	Wanderley Paiva
+1	Bruno [César]
+1	Luan
+1	Henrique
+1	Gabriel Silva
+1	Palop
+1	Bruno Rodrigo
+1	Manuel da Lupa
+1	Roberto Frizzo
+1	Brida
+1	Everaldo
+1	Vanderlei Luxemburgo
+1	Figger
+1	Marta
+1	Diego Jussani
+1	Berg
+1	Luis Ramírez
+1	Presidente do Corinthians
+1	Emerson
+1	Wellington Rodrigues
+1	Willian
+1	Zé do gol
+1	Patrik
+1	Luiz Carlos
+1	Lincoln
+1	José Arrudas
+1	Alessandro
+1	Anselmo
+1	Coates
+1	Guilherme
+1	Paulo César Carpegiani 
+1	Luis Alvaro de Olveira Ribeiro
+1	Ney Franco
+1	Gladiador
+1	Marcelo de Souza
+1	Marco Chedid
+1	Coronel
+2	Leandro Amaro
+2	Neymar
+2	Edinho Nazareth
+2	presidente do Corinthians
+2	Gilson Kleina
+2	Bruno Uvini
+2	Rodrigo Possebon
+2	Ademir Fonseca
+2	Argel Fucks
+2	Carlinhos
+2	Ceni
+2	Scolari
+2	Adriano
+2	Andrés Sanchez
+2	Dadá
+2	Possebon
+2	Marcos Assunção
+2	Leandro Silva
+2	Adilson
+2	Roberto Fonseca
+2	médico do São Paulo
+2	Valdivia
+2	Jonathan
+2	Uvini
+2	Ribeiro
+2	Cleber Santana
+2	Quixadá
+2	Juninho Quixadá
+2	Maikon Leite
+2	treinador bugrino
+2	Reinaldo
+3	Danilo
+3	Roberto Carlos
+3	João Vitor
+3	Estevam Soares
+3	Lucas Gaúcho
+3	Rodrigo Heffner
+3	Fenômeno
+3	São Paulo
+3	Pedrão
+3	Bruno Oliveira
+3	Bruno César
+3	Miguel
+3	Fernando Diniz
+3	Luis Gustavo
+3	Cristian
+3	Toninho Cecílio
+3	Bruno Bertucci
+3	Zé Love
+3	Zé Vitor
+3	Juliano
+3	Julio Cesar
+3	Raphael Aguiar
+3	Jael
+3	Ricardinho
+4	Sérgio Guedes
+4	Zé Eduardo
+4	Arouca
+4	Roberval Davino
+4	José Sanchez
+4	Rafael
+4	Xandão
+4	Renan
+4	Thiago Martinelli
+4	Luiz Eduardo
+4	Thiago Gomes
+4	Vandinho
+4	Paulo César
+4	Carlito Arini
+4	Heverton
+4	Rogério Micale
+5	Rodrigo Souto
+5	Liedson
+5	Marcelo Veiga
+5	Fábio Santos
+5	Fabrício
+6	Léo
+6	Souza
+6	Elano
+6	Juan
+6	Thiago Heleno
+6	Diogo
+6	Kleber
+7	Adilson Batista
+7	Cicinho
+7	Bruno
+8	Deola
+8	Carlinhos Paraíba
+8	Rhodolfo
+8	Héverton
+8	Fernandão
+8	Fábio Giuntini
+9	Paulo César Carpegiani
+9	Luiz Felipe Scolari
+10	Felipão
+10	Lucas
+10	Marlos
+10	Dagoberto
+11	Tite
+11	Ilsinho
+11	Ronaldo
+11	Marcos
+12	Jean
+13	Argel
+14	Miranda
+14	Alex Silva
+14	Rogério Ceni
+16	Fernandinho
+16	Carpegiani
+36	Rivaldo
+-->sum 720 items 259
+-------------------------------------------
+
+--> fans
+1	torcida do alviverde
+1	torcedores palmeirenses
+1	torcida do Timão
+1	corintianos
+1	palmeirenses
+2	torcida corintiana
+2	torcida rubro-verde
+-->sum 9 items 7
+-------------------------------------------
+
+--> stadium
+1	Brinco de Ouro
+1	Walter Ribeiro
+1	Caetano Peretti
+1	Brinco de Ouro 
+1	Eduardo José Farah
+2	Palestra Itália
+2	Nabi Abi Chedid
+2	Décio Vitta
+2	Parque São Jorge
+2	Anacleto Campanella
+3	Vila
+3	Moisés Lucarelli
+3	Brinco de Ouro da Princesa
+7	Arena Barueri
+7	Prudentão
+8	Vila Belmiro
+16	Canindé
+16	Morumbi
+27	Pacaembu
+-->sum 105 items 19
+-------------------------------------------
+
+--> team
+1	Portugal
+1	time de Ribeirão Preto
+1	Bragança Paulista
+1	Coritiba
+1	Ipatinga-MG
+1	alviverde
+1	time alvinegro
+1	time de Itápolis
+1	Bunyodkor
+1	Paulista de Jundaí
+1	Hamburgo
+1	Sport Club Corinthians Paulista
+1	time bugrino
+1	equipe pontepretana
+1	Kazar Lenkoran FC
+1	clube mineiro
+1	Comercial
+1	Campeonato Paulista
+1	time uruguaio
+1	Milan
+1	Tombense
+1	santistas
+1	Vitória-ES
+1	Vitória da Conquista
+1	Paulista de Jundiaí
+1	seleção sub-20
+1	clube litorâneo
+1	equipe paulista
+1	Rentistas
+1	Crac
+1	São José
+1	clube goiano
+1	equipe prudentina
+1	Atlético Sorocaba
+1	Grêmio Barueri
+1	clube da capital
+1	Macaé-RJ
+1	Timão
+1	América-RN
+1	clube paulista
+1	Comercial-PI
+1	equipe de Montevidéu
+1	Braga
+1	ABC
+1	Argentina
+1	Tours-FRA
+1	Pão de Açúcar
+1	Fluminense
+1	lusitana
+1	Cerezo Osaka
+1	Iraty-PR
+1	Atlético Paranaense
+1	equipe de Argel
+1	time do Morumbi
+1	clube de Parque São Jorge
+1	equipe de Campinas
+1	time da Baixada
+1	S. Caetano
+1	Universitário
+1	clube espanhol
+1	Guaratinguetá
+1	União Rondonópolis
+1	Rentistas-URU
+1	equipe de Presidente Prudente
+1	Tupi
+1	Monte Azul
+1	Atlético de Sorocaba
+1	Araçatuba
+1	Vitória-BA
+1	seleção brasileira
+1	SPFC
+1	seleção
+1	Democrata-SL
+1	Cerro Porteño
+1	clube de Palestra Itália
+1	equipe de Parque São Jorge
+1	equipe rubro-verde
+1	Treze, da Paraíba
+1	Ceará
+1	Juventus
+1	Al-Ittihad
+1	Atlético-GO
+1	Caldas
+1	Atlético de Madri
+1	clube alagoano
+1	Olympiacos-GRE
+1	Canindé
+1	Bangu
+1	Olympic Beirut
+1	FC Dallas
+1	América-MG
+1	clube de Bragança Paulista
+1	time alviverde
+1	Brasil
+1	clube alvinegro
+1	SP
+1	Sevilla
+1	Nacional
+1	equipe do técnico Tite
+1	Genoa
+2	equipe bugrina
+2	palmeirense
+2	clube do ABC
+2	Vasco
+2	Portuguesa de Desportos
+2	Crac-GO
+2	Cruzeiro
+2	clube rubro-verde
+2	time de Presidente Prudente
+2	equipe campineira
+2	União Barbarense
+2	seleção de Angola
+2	time de Parque São Jorge
+2	Sevilla-ESP
+2	alvinegros
+2	Grêmio
+2	CRB-AL
+2	Avaí
+2	seleção brasileira sub-20
+2	tricolor
+2	Uruguai
+2	time do ABC
+2	Paraná
+2	clube rubro-negro
+2	Sporting
+2	time tricolor
+2	FC Tokyo
+2	Palmeiras B
+2	Nacional-URU
+2	XV de Piracicaba
+2	alvinegro
+3	Náutico
+3	santista
+3	Atlético-MG
+3	Bahia
+3	equipe do ABC
+3	Angola
+3	Icasa
+3	Figueirense
+3	Tolima
+3	Mogi
+4	Sport
+4	clube campineiro
+5	Prudente
+5	Botafogo
+5	Paulista
+5	Lusa
+5	Ponte
+5	Red Bull
+5	Botafogo-SP
+7	Mogi Mirim
+7	Vitória
+9	Santo André
+13	Ituano
+13	Americana
+14	Mirassol
+14	Noroeste
+14	Oeste
+16	Ponte Preta
+17	Bragantino
+19	Linense
+20	São Bernardo
+23	Portuguesa
+25	Grêmio Prudente
+25	Guarani
+32	São Caetano
+41	Corinthians
+49	Palmeiras
+60	São Paulo
+67	Santos
+-->sum 720 items 170
+-------------------------------------------
+
+--> place
+1	Angola
+1	Portugal
+1	Goiás
+1	Piracicaba
+1	Bragança Paulista
+1	Hospital São Luiz
+1	Academia de Futebol
+1	CT de Cotia
+1	Instituto do Joelho HCor
+1	Teresópolis
+1	Cazaquistão
+1	CT Rei Pelé
+1	centro de treinamento do clube
+1	zona leste da capital paulista
+1	MT
+1	Sergipe
+1	São José do Rio Preto
+1	Oriente
+1	Bragança
+1	CT em Cotia
+1	Jaguariúna
+1	Salvador
+1	Líbano
+1	Japão
+1	Bauru
+1	Árabia Saudita
+1	CT Barra Funda
+1	Uzbequistão
+1	SP
+1	Azerbaijão
+1	Itália
+1	Mogi
+1	Reffis
+1	Parque Ecológico
+1	Sinop
+1	Colômbia
+1	CT Flavio Araújo
+2	Rio de Janeiro
+2	CT do Corinthians
+2	CT Joaquim Grava
+2	ABC paulista
+2	Jundiaí
+2	Peru
+2	Rio
+2	Brasil
+2	ABC
+2	Morumbi
+3	Ribeirão Preto
+3	São Paulo
+4	Lins
+4	Presidente Prudente
+4	Barueri
+4	Itápolis
+4	Campinas
+5	CT da Barra Funda
+6	Brasília
+-->sum 94 items 56
+-------------------------------------------
+
+--> championship
+1	título pernambucano
+1	Brasileiro 2010
+1	Série B do Campeonato Brasileiro
+1	série B do Brasileiro
+1	Série A-2
+1	Série C
+1	Jogos Olímpicos-2012
+1	Torneio Rio-São Paulo
+1	J-League
+1	competição estadual
+1	Série A-2 do Paulista
+1	Campeonato Goiano
+1	Mercosul
+1	Sul-Americano sub-20
+1	Copa do Mundo
+2	Brasileirão
+2	Sul-Americano
+2	paulista
+2	Campeonato Alagoano
+2	Campeonato Estadual
+3	Copa São Paulo
+3	Série B
+4	Estadual
+5	Série A-2 do Campeonato Paulista
+7	Paulista
+7	Campeonato Brasileiro
+8	Copa do Brasil
+10	Paulistão
+18	Libertadores
+51	Campeonato Paulista
+-->sum 141 items 30
+-------------------------------------------

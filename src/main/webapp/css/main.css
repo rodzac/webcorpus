@@ -1,0 +1,31 @@
+/* main */
+body { font-family: Verdana; background: #F5F5DC;}
+
+#title {margin-bottom: 30px;}
+#title h1 {color: #444; margin-left: 10px; display: inline;}
+#title h6 {color: #444; display: inline;}
+
+#text { background: #EEE; padding: 20px; margin-left: 10px; margin-top: 30px; margin-right: 60px; margin-bottom: 150px;}
+.text {color: black; }
+
+#commands { margin-left: 20px; padding: 0; list-style-type: none; }
+#commands li { display: inline; padding-right: 10px }
+#commands li a { text-decoration: none; color: navy;}
+#commands li a:hover { text-decoration: underline; }
+#commands li a.next-button { background-image: url(/img/next.gif); background-position: 0px center; background-repeat: no-repeat; outline: none; padding: 10px 5px; padding-left: 40px;}
+#commands li a.save-button { background-image: url(/img/save2.png); background-position: 0px center; background-repeat: no-repeat; outline: none; padding: 10px 5px; padding-left: 33px;}
+#commands li a.archive-button { background-image: url(/img/archive2.png); background-position: 0px center; background-repeat: no-repeat; outline: none; padding: 10px 5px; padding-left: 40px;}
+
+/* menu */
+.contextMenu { position: absolute; width: 140px; z-index: 99999; border: solid 1px #CCC; background: #EEE; padding: 0px; margin: 0px; display: none;}
+.contextMenu LI { list-style: none; padding: 0px; margin: 0px;}
+.contextMenu A { text-decoration: none; display: block; line-height: 20px; height: 20px; background-position: 6px center; background-repeat: no-repeat; outline: none; padding: 1px 5px; padding-left: 28px;}
+.contextMenu LI.hover A { color: #FFF; background-color: #3399FF;}
+.contextMenu LI.disabled A { color: #AAA; cursor: default;}
+.contextMenu LI.hover.disabled A { background-color: transparent;}
+.contextMenu LI.separator { border-top: solid 1px #CCC;}
+
+/* archive */
+#archive {background-color: #F5F5DC; z-index: 100; width: 96%; height: 80%; position: absolute; top: 70px;	left: 20px; display: none;}
+#mask {background-color: #000; opacity: 0.7; z-index: 90; width: 100%; height: 100%; position: absolute; top: 0px;	left: 0px; display: none;}
+#archive #close {background-image: url(/img/close4.png); background-repeat: no-repeat; position: absolute; top: 4px; left: 94%; outline: none; padding: 40px 13px;}

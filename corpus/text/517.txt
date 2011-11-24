@@ -1,0 +1,2 @@
+<person>Adilson</person> cogita colocar 3º zagueiro para equilibrar <team>Santos</team> no clássico
+<person>Adilson Batista</person> garante não estar abalado com os problemas defensivos enfrentados pelo <team>Santos</team> no empate contra o <team>São Caetano</team>, por 3 a 3, na noite de quarta-feira, na <stadium>Arena Barueri</stadium>, pela quarta rodada do <championship>Campeonato Paulista</championship>. Apesar disso, o treinador cogita modificar radicalmente o esquema tático utilizado.
